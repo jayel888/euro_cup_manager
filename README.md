@@ -1,1 +1,2 @@
-# euro_cup_manager
+# Euro Cup Manager
+
